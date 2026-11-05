@@ -1,0 +1,13 @@
+1. Open the Configuration Tool:
+	• Launch SEBConfigTool.exe (located in the Safe Exam Browser installation folder).
+	• Open your existing .seb configuration file or start a new configuration.
+2. Configure Permitted Processes (Applications):
+	• Navigate to the Applications tab in the left-hand navigation pane.
+	• Under Permitted Processes, click the + (Add Application) button or Choose Application... to select the executable file (.exe) of the third-party software you want to allow (e.g., Excel, MATLAB, or a specific tool).
+	• Enable the option Icon in task bar for that application so students can easily launch or bring its window to the foreground.
+	• Ensure Monitor processes while SEB is running is properly configured so that non-permitted applications are blocked or hidden while allowed apps run.
+3. Enable the SEB Taskbar:
+	• Go to the User Interface tab.
+	• Enable the SEB task bar option so that icons for your permitted third-party applications appear cleanly inside the SEB environment.
+4. Save and Distribute:
+	• Save the configuration file (.seb) and upload or share it with the exam setup or students.
